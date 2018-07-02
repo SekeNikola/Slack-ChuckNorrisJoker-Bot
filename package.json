@@ -1,0 +1,16 @@
+{
+  "name": "chuckjokes",
+  "version": "1.0.0",
+  "description": "Chatbot that tells random Chuck Norris jokes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Seke Nikola",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.1.0"
+  }
+}
