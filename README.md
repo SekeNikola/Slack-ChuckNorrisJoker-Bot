@@ -14,3 +14,6 @@ npm install
 npm start
 
 ### Create bot in Slack and generate and include your OAuth bot token
+
+If there is something you dont understand I suggest to read tutorial on how to make this bot here:
+https://www.sekenikola.com/blog/chuck-norris-joke-bot-for-slack/
